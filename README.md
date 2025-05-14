@@ -1,4 +1,4 @@
-<h1>Expression Creator</h1>
+<h1>Expression Grapher</h1>
 
 <p>What the hell is this?</p>
 
